@@ -3,7 +3,7 @@
   "name": "synthera-website",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://your-username.github.io/synthera-website",
+  "homepage": "https://ohtherewegoagain.github.io/website",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
