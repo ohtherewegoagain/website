@@ -29,11 +29,29 @@ body {
   padding: 0 2rem;
 }
 
-.logo {
-  color: #ffffff;
-  font-size: 1.6rem;
-  font-weight: 600;
+.logo-image {
+  height: 40px;
+  margin-right: 10px;
 }
+
+.logo-text {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 16px 32px;
+}
+
+.nav-links {
+  display: flex;
+  gap: 20px;
+  list-style: none;
+}
+
 
 .nav-links {
   list-style: none;
